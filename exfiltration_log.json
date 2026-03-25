@@ -1,0 +1,12 @@
+{"timestamp": "2026-03-10T18:37:36.378415", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 312}
+{"timestamp": "2026-03-10T18:38:06.383920", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 2168}
+{"timestamp": "2026-03-10T18:38:33.830066", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 2276}
+{"timestamp": "2026-03-10T18:40:22.818216", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 1144}
+{"timestamp": "2026-03-10T18:40:52.823785", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 1508}
+{"timestamp": "2026-03-10T18:41:22.827134", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 1848}
+{"timestamp": "2026-03-10T18:41:52.832964", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 4300}
+{"timestamp": "2026-03-10T18:42:22.837868", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 5836}
+{"timestamp": "2026-03-10T18:42:51.287730", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 6604}
+{"timestamp": "2026-03-10T18:42:52.843371", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 6604}
+{"timestamp": "2026-03-10T18:43:21.293225", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 6604}
+{"timestamp": "2026-03-10T18:43:22.848501", "server": "http://localhost:8080/log", "status": "simulated", "data_size": 6604}

@@ -1,0 +1,7 @@
+{
+    "purpose": "Educational Proof of Concept",
+    "ethical_note": "This tool is for cybersecurity education only",
+    "exfiltration": "Simulated to localhost only",
+    "created": "2026-03-10T18:42:21.227986",
+    "encryption_key": "WFBObm5RZ2xQUXRRUUlyOW1TZUJLb2lCOVhEZDh3ZXVSY0lLYVItVDNiUT0="
+}
